@@ -1,4 +1,4 @@
-# import turtle           # Allows us to use turtles
+import turtle           # Allows us to use turtles
 n = turtle.Screen()     # Creates a playground for turtles
 alex = turtle.Turtle()  # Create a turtle, assign to alex
 
